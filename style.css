@@ -1,3 +1,40 @@
 body {
-    background: lightgray;
+    font-family: helvetica neue;
+    background-image: url("http://churchatprison.com/wp-content/uploads/2014/07/bigstock-Blue-sky-with-clouds-backgroun-511352021.jpg");
+    max-width: 1000px;
+    min-width: 250px;
+    margin: 20px 20px 20px 20px;
+    padding: 25px 15px 25px 15px;
+    border: 1px solid black;
+    text-align: auto;
+}
+
+img {
+
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    margin: 20px 30px 0px 0px;
+    padding: 2px 15px 25px 15px;
+    font-size: 70%;
+}
+
+#bio {
+
+}
+
+#photo-link {
+}
+
+#fun-facts {
+    text-align: center;
+    font-size: 100%;
+    margin-right: 20px;
+}
+a:visitied { color: green; }
+.mailing {
+    margin: 20px 30px 20px 0px;
+    padding: 25px 15px 25px 15px;
 }
